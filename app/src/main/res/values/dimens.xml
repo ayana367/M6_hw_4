@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cv_margin">6dp</dimen>
+    <dimen name="cv_radius">10dp</dimen>
+    <dimen name="tv_item_size">24sp</dimen>
+    <dimen name="tv_size">32sp</dimen>
+    <dimen name="indicator_radius">8dp</dimen>
+    <dimen name="indicator_size">16dp</dimen>
+    <dimen name="in_start">130dp</dimen>
+    <dimen name="in_top">500dp</dimen>
+    <dimen name="in_dots">4dp</dimen>
+    <dimen name="tv_counter_size">32sp</dimen>
+</resources>

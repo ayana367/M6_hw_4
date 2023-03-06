@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">M6_hw_4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result">result</string>
+    <string name="press_the_button">Press the button</string>
+</resources>
